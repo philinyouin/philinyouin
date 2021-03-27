@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, deep learning, and AI
 - 🌱 I’m currently learning data science, python
 - 💞️ I’m looking to collaborate on music based projects
-- 📫 How to reach me philpeker@gmail.c
+- 📫 How to reach me philpeker@gmail.com
 
 <!---
 philinyouin/philinyouin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
