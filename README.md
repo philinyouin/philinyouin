@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philinyouin
 - 👀 I’m interested in machine learning, deep learning, and AI
-- 🌱 I’m currently learning data science, python
-- 🤝 I’m looking to collaborate on music based projects
+- 🌱 I’m currently learning data science, python as it applies to AI (ML, deep learning, neural nets) 
+- 🤝 I’m looking to collaborate on audio based projects (NLP, speach, music classifation problems, etc) 
 - 📫 How to reach me philpeker@gmail.com
 
 <!---
